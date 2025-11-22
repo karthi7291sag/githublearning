@@ -1,7 +1,4 @@
 this is sameple file
-<<<<<<< HEAD
 test1
 Updated from main branch
-=======
 Updated on Development branch
->>>>>>> development
