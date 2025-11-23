@@ -1,2 +1,1 @@
-this is sameple file
-test2
+Git stash example in branch file 2
